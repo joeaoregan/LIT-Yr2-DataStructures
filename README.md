@@ -1,6 +1,6 @@
-# Yr2 Data Structures
-# CA2 Collinear Points
+# BSc Computing (Games Design and Development)
+## Joe O'Regan (K00203642)
+### Data-Structures
 
-* Yr2 Data Structures CA2 Collinear Points. 
-* Pattern Recognition. 
-* Write a program to recognize line patterns in a given set of points.
+1. CA1 Percolation
+2. CA2 Collinear Points
